@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Zhen Huan's webpage
 
-You can use the [editor on GitHub](https://github.com/huanzhen84/huanzhen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+School of Mathematics 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sun Yat-sen University
 
-### Markdown
+Xingangxi Road 135, Haizhu, 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Guangzhou,  Guangdong, 510275, China
 
-```markdown
-Syntax highlighted code block
+Email: huanzhen2016(at)gmail(dot)com
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Personal information
 
-1. Numbered
-2. List
+Currently I'm a research associate at [Sun Yat-sen University](math.sysu.edu.cn). I received my PhD from the [University of Illinois at Urbana-Champaign](https://math.illinois.edu/). My advisor was [Charles Rezk](https://faculty.math.illinois.edu/~rezk//). My dissertation defense was on May 5th, 2016.
 
-**Bold** and _Italic_ and `Code` text
+I completed my BS in mathematics at [Peking University](math.pku.edu.cn).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huanzhen84/huanzhen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is my CV. 
