@@ -1,4 +1,4 @@
-## Zhen Huan's webpage
+## Zhen Huan (郇真)
 
 School of Mathematics 
 
@@ -39,13 +39,25 @@ Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Sta
 
 ## Invited Talks
 
-Parallel Session, Conference "Homotopy theory: tools and applications", University of Illinois at Urbana-Champaign, Quasi-elliptic Cohomology, July 17, 2017
+Peking University Geometry and Topology Seminar, _Quasi-elliptic cohomology_, November 30, 2017.
 
-Informal Session, Conference on invertible objects and duality in derived algebraic geometry and homotopy theory, the University of Regensburg, Germany. Quasi-elliptic Cohomology, April 3, 2017.
+South China Normal University Topology Seminar, _Quasi-elliptic cohomology_, November 16, 2017.
 
-AMS Special Session on Homotopy Theory, Bloomington, IN. Quasi-elliptic Cohomology, April 1, 2017.
+Southern University of Science and Techonology Topology Seminar, ![Quasi-elliptic cohomology](Zhen_SUSTech_2016_Slides.pdf), November 14, 2017.
 
-AMS Special Session on Topology and Arithmetic, Minneapolis, MN. Quasi-elliptic Cohomology, October 30, 2016.
+Poster Session, Schubert Calculus International Festival, ![Quasi-elliptic cohomology](Huan_poster.pdf), November 9, 2017.
+
+AMS Special Session on Homotopy Theory, _Quasi-elliptic cohomology_, November 5, 2017.
+
+Nankai University Algebraic Topology Seminar, _Quasi-elliptic cohomology_, October 10, 2017.
+
+Parallel Session, Conference "Homotopy theory: tools and applications", University of Illinois at Urbana-Champaign, ![Quasi-elliptic Cohomology](Zhen_UIUC_2017_Slides.pdf), July 17, 2017
+
+Informal Session, Conference on invertible objects and duality in derived algebraic geometry and homotopy theory, the University of Regensburg, Germany. ![Quasi-elliptic Cohomology](Zhen_Regensburg_2017_Slides.pdf), April 3, 2017.
+
+AMS Special Session on Homotopy Theory, Bloomington, IN. ![Quasi-elliptic Cohomology](Zhen_AMS_2017_Slides.pdf), April 1, 2017.
+
+AMS Special Session on Topology and Arithmetic, Minneapolis, MN. ![Quasi-elliptic Cohomology](Zhen_AMS_2016_Slides.pdf), October 30, 2016.
 
 University of Chicago Algebraic Topology Seminar, Quasi-elliptic cohomology, November 25, 2014.
 
