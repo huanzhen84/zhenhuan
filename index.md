@@ -62,3 +62,37 @@ AMS Special Session on Topology and Arithmetic, Minneapolis, MN. ![Quasi-ellipti
 University of Chicago Algebraic Topology Seminar, Quasi-elliptic cohomology, November 25, 2014.
 
 Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24, 2014.
+
+## Teaching
+
+2016 Summer: teaching assistant for Netmath MATH 231-Calculus II.
+
+2016 Spring: the main instructor of MATH 124-Finite Mathematics.
+
+2015 Fall: the main instructor of MATH 124-Finite Mathematics.
+
+2015 Spring: the main instructor of MATH 124-Finite Mathematics.
+
+2013 Fall: the main instructor of MATH 119-Ideas in Geometry.
+
+
+2016 Fall: led discussion session for MATH 221-Calculus I.
+
+2012 Fall: led discussion session for MATH 231-Calculus II.
+
+2012 Spring: led discussion session for MATH 234-Calculus for Business I.
+
+2011 Fall: led discussion session for MATH 231-Calculus II.
+
+
+2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_.
+
+Here is my ![teaching statement](Huan_Teaching_Statement_Rev.pdf).
+
+## Useful links
+
+The book [Global Homotopy Theory](http://www.math.uni-bonn.de/people/schwede/global.pdf) by Stefan Schwede.
+
+[UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar).
+
+[A List of Conferences in Topology](https://mathmeetings.net/at-gt)
