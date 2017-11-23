@@ -17,4 +17,24 @@ Currently I'm a research associate at [Sun Yat-sen University](https://math.sysu
 
 I completed my BS in mathematics at [Peking University](https://www.math.pku.edu.cn).
 
-Here is my ![CV](). 
+Here is my ![CV](CV_Huan.pdf).
+
+## Research
+
+My research interests are in algebraic topology, homotopy theory and related field. The main subject I'm working on is quasi-elliptic cohomology.
+
+Here is my [research statement](Huan_RS.pdf).
+
+Here is my [dissertation](Zhen_Thesis.pdf). 
+
+## Papers
+
+[Quasi-Elliptic Cohomology and its Power Operations](http://arxiv.org/abs/1612.00930). Submitted for publication.
+
+[Quasi-Elliptic Cohomology and its Spectra](http://arxiv.org/abs/1703.06562). Submitted for publication.
+
+[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637)
+
+Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
+
+## 
