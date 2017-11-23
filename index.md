@@ -37,4 +37,16 @@ Here is my [dissertation](Zhen_Thesis.pdf).
 
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
 
-## 
+## Invited Talks
+
+Parallel Session, Conference "Homotopy theory: tools and applications", University of Illinois at Urbana-Champaign, Quasi-elliptic Cohomology, July 17, 2017
+
+Informal Session, Conference on invertible objects and duality in derived algebraic geometry and homotopy theory, the University of Regensburg, Germany. Quasi-elliptic Cohomology, April 3, 2017.
+
+AMS Special Session on Homotopy Theory, Bloomington, IN. Quasi-elliptic Cohomology, April 1, 2017.
+
+AMS Special Session on Topology and Arithmetic, Minneapolis, MN. Quasi-elliptic Cohomology, October 30, 2016.
+
+University of Chicago Algebraic Topology Seminar, Quasi-elliptic cohomology, November 25, 2014.
+
+Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24, 2014.
