@@ -27,7 +27,7 @@ My research interests are in algebraic topology, homotopy theory and related fie
 
 Here is my [research statement](Huan_Research.pdf).
 
-Here is my [dissertation](https://www.ideals.illinois.edu/bitstream/handle/2142/97268/HUAN-DISSERTATION-2017.pdf?sequence=1&isAllowed=y). 
+Here is my [dissertation](http://hdl.handle.net/2142/97268). 
 
 ## Publication
 
@@ -37,7 +37,7 @@ Here is my [dissertation](https://www.ideals.illinois.edu/bitstream/handle/2142/
 
 [Quasi-Elliptic Cohomology and its Spectra](http://arxiv.org/abs/1703.06562). Submitted for publication.
 
-[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637)
+[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637).
 
 ## Work in Progress
 
