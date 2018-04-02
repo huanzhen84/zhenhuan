@@ -47,6 +47,11 @@ A Survey of Quasi-Elliptic Cohomology. In Preparation.
 
 Almost Global Homotopy Theory. In Preparation.
 
+## Service
+
+Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
+and Technology, June 6-9, 2018.
+
 ## Invited Talks
 
 AMS-CMS Special Session on Algebraic and Geometric Topology, Joint International Meeting, Fudan University,
