@@ -19,7 +19,7 @@ Currently I'm a research associate at [Sun Yat-sen University](https://math.sysu
 
 I completed my BS in mathematics at [Peking University](https://www.math.pku.edu.cn).
 
-Here is my ![CV](Huan_CV.pdf).
+Here is my [CV](Huan_CV.pdf).
 
 ## Research
 
