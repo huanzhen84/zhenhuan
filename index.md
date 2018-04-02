@@ -1,7 +1,6 @@
 
 ## Zhen Huan (郇真) 
 
-![](huanz.jpg)
 
 School of Mathematics 
 
@@ -20,29 +19,44 @@ Currently I'm a research associate at [Sun Yat-sen University](https://math.sysu
 
 I completed my BS in mathematics at [Peking University](https://www.math.pku.edu.cn).
 
-Here is my ![CV](CV_Huan.pdf).
+Here is my ![CV](Huan_CV.pdf).
 
 ## Research
 
 My research interests are in algebraic topology, homotopy theory and related field. The main subject I'm working on is quasi-elliptic cohomology.
 
-Here is my [research statement](Huan_RS.pdf).
+Here is my [research statement](Huan_Research.pdf).
 
-Here is my [dissertation](Zhen_Thesis.pdf). 
+Here is my [dissertation](https://www.ideals.illinois.edu/bitstream/handle/2142/97268/HUAN-DISSERTATION-2017.pdf?sequence=1&isAllowed=y). 
 
-## Papers
+## Publication
 
-[Quasi-Elliptic Cohomology and its Power Operations](http://arxiv.org/abs/1612.00930). Submitted for publication.
+[Quasi-Elliptic Cohomology and its Power Operations](https://doi.org/10.1007/s40062-018-0201-y). J. Homotopy Relat. Struct. (2018).
+
+## Preprint
 
 [Quasi-Elliptic Cohomology and its Spectra](http://arxiv.org/abs/1703.06562). Submitted for publication.
 
 [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637)
 
+## Work in Progress
+
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
+
+A Survey of Quasi-Elliptic Cohomology. In Preparation.
+
+Almost Global Homotopy Theory. In Preparation.
 
 ## Invited Talks
 
-Peking University Geometry and Topology Seminar, _Quasi-elliptic cohomology_, November 30, 2017.
+AMS-CMS Special Session on Algebraic and Geometric Topology, Joint International Meeting, Fudan University,
+_Quasi-elliptic cohomology_, June 11-14, 2018.
+
+Chinese Academy of Sciences Topology Seminar, ![Quasi-elliptic cohomology](Zhen_2018_CAS_Slides.pdf), March 29, 2018.
+
+Sun Yat-sen University, Zhuhai Campus, _Quasi-elliptic cohomology_, January 12, 2018.
+
+Peking University Geometry and Topology Seminar, ![Quasi-elliptic cohomology](Zhen_2017_PKU_Slides.pdf), November 30, 2017.
 
 South China Normal University Topology Seminar, _Quasi-elliptic cohomology_, November 16, 2017.
 
@@ -88,7 +102,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 2011 Fall: led discussion session for MATH 231-Calculus II.
 
 
-2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_.
+2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_ at University of Illinois at Urbana-Champaign.
 
 Here is my ![teaching statement](Huan_Teaching_Statement_Rev.pdf).
 
