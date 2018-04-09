@@ -119,4 +119,4 @@ The book [Global Homotopy Theory](http://www.math.uni-bonn.de/people/schwede/glo
 
 [Motives Seminar-SS-2018](http://www.esaga.uni-due.de/marc.levine/Courses/2018/MotivesSeminarSS/).
 
-[A List of Conferences in Topology](https://mathmeetings.net/at-gt)
+[A List of Conferences in Topology](https://mathmeetings.net/at-gt).
