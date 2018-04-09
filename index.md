@@ -37,13 +37,13 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Elliptic Cohomology and its Spectra](http://arxiv.org/abs/1703.06562). Submitted for publication.
 
+Quasi-Elliptic Cohomology I.. Submitted for publication.
+
 [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637).
 
 ## Work in Progress
 
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
-
-A Survey of Quasi-Elliptic Cohomology. In Preparation.
 
 Almost Global Homotopy Theory. In Preparation.
 
@@ -116,5 +116,7 @@ Here is my [teaching statement](Huan_Teaching_Statement_Rev.pdf).
 The book [Global Homotopy Theory](http://www.math.uni-bonn.de/people/schwede/global.pdf) by Stefan Schwede.
 
 [UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar).
+
+[Motives Seminar-SS-2018](http://www.esaga.uni-due.de/marc.levine/Courses/2018/MotivesSeminarSS/).
 
 [A List of Conferences in Topology](https://mathmeetings.net/at-gt)
