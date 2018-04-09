@@ -35,7 +35,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 ## Preprint
 
-[Quasi-Elliptic Cohomology and its Spectra](http://arxiv.org/abs/1703.06562). Submitted for publication.
+[Quasi-Elliptic Cohomology and its Spectrum](http://arxiv.org/abs/1703.06562). Submitted for publication.
 
 Quasi-Elliptic Cohomology I.. Submitted for publication.
 
