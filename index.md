@@ -73,7 +73,7 @@ AMS Special Session on Homotopy Theory, _Quasi-elliptic cohomology_, November 5,
 
 Nankai University Algebraic Topology Seminar, _Quasi-elliptic cohomology_, October 10, 2017.
 
-Parallel Session, Conference "Homotopy theory: tools and applications", University of Illinois at Urbana-Champaign, _Quasi-elliptic Cohomology_, July 17, 2017
+Parallel Session, Conference "Homotopy theory: tools and applications", University of Illinois at Urbana-Champaign, [Quasi-elliptic Cohomology](Zhen_UIUC_2017_Slides.pdf), July 17, 2017
 
 Informal Session, Conference on invertible objects and duality in derived algebraic geometry and homotopy theory, the University of Regensburg, Germany. [Quasi-elliptic Cohomology](Zhen_Regensburg_2017_Slides.pdf), April 3, 2017.
 
