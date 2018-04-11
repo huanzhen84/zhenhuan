@@ -50,7 +50,7 @@ Almost Global Homotopy Theory. In Preparation.
 ## Service
 
 Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
-and Technology, June 6-9, 2018.
+and Technology, China, June 6-9, 2018.
 
 ## Invited Talks
 
