@@ -37,7 +37,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Elliptic Cohomology and its Spectrum](http://arxiv.org/abs/1703.06562). Submitted for publication.
 
-[Quasi-Elliptic Cohomology I.](Huan_Survery.pdf). Submitted for publication.
+[Quasi-Elliptic Cohomology I.](Huan_survery.pdf). Submitted for publication.
 
 [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637).
 
