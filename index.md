@@ -37,7 +37,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Elliptic Cohomology and its Spectrum](http://arxiv.org/abs/1703.06562). Submitted for publication.
 
-Quasi-Elliptic Cohomology I.. Submitted for publication.
+[Quasi-Elliptic Cohomology I.](Huan_Survery.pdf). Submitted for publication.
 
 [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637).
 
@@ -117,6 +117,6 @@ The book [Global Homotopy Theory](http://www.math.uni-bonn.de/people/schwede/glo
 
 [UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar).
 
-[Motives Seminar-SS-2018](http://www.esaga.uni-due.de/marc.levine/Courses/2018/MotivesSeminarSS/).
+[Essen Seminars-2018](http://www.esaga.uni-due.de/events/).
 
 [A List of Conferences in Topology](https://mathmeetings.net/at-gt).
