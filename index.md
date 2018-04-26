@@ -39,7 +39,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Elliptic Cohomology I.](Huan_survey.pdf). Submitted for publication.
 
-[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637).
+[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
 
 ## Work in Progress
 
