@@ -35,11 +35,11 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 ## Preprint
 
-[Quasi-Elliptic Cohomology and its Spectrum](http://arxiv.org/abs/1703.06562). Submitted for publication.
+[Quasi-Elliptic Cohomology and its Spectrum](Zhen_Spectra.pdf). Submitted for publication.
 
 [Quasi-Elliptic Cohomology I.](Huan_survey.pdf). Submitted for publication.
 
-[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
+[Universal Finite Subgroup of Tate Curve](Subgroup_Tate_Zhen.pdf). Submitted for publication.
 
 ## Work in Progress
 
