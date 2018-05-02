@@ -54,9 +54,6 @@ and Technology, China, June 6-9, 2018.
 
 ## Invited Talks
 
-AMS-CMS Special Session on Algebraic and Geometric Topology, Joint International Meeting, Fudan University,
-_Quasi-elliptic cohomology_, June 11-14, 2018.
-
 The University of Duisburg-Essen [Research Seminar Arithmetic Geometry](http://www.esaga.uni-due.de/ss18/arithmgeo/),  _Quasi-elliptic cohomology_, May 17, 2018.
 
 Chinese Academy of Sciences Topology Seminar, [Quasi-elliptic cohomology](Zhen_2018_CAS_Slides.pdf), March 29, 2018.
