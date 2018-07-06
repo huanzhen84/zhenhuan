@@ -35,24 +35,27 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 ## Preprint
 
-[Quasi-Elliptic Cohomology and its Spectrum](Zhen_Spectra.pdf). Submitted for publication.
+[Quasi-Elliptic Cohomology and its Spectrum](https://arxiv.org/abs/1703.06562). Submitted for publication.
 
-[Quasi-Elliptic Cohomology I.](Huan_survey.pdf). Submitted for publication.
+[Quasi-Elliptic Cohomology I.](https://arxiv.org/abs/1805.06305). Submitted for publication.
 
-[Universal Finite Subgroup of Tate Curve](Subgroup_Tate_Zhen.pdf). Submitted for publication.
+[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
 
 ## Work in Progress
 
-Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
-
 Almost Global Homotopy Theory. In Preparation.
+
+Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
 
 ## Service
 
 Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
 and Technology, China, June 6-9, 2018.
 
-## Invited Talks
+## Talks
+Poster Session, Homotopy Theory Summer Berlin 2018, [Quasi-elliptic cohomology](Poster template.pdf), June 20 and 26, 2018.
+
+Georg-August-Universitat Gottingen Seminar,  _Quasi-elliptic cohomology_, June 6, 2018.
 
 The University of Duisburg-Essen [Research Seminar Arithmetic Geometry](http://www.esaga.uni-due.de/ss18/arithmgeo/),  _Quasi-elliptic cohomology_, May 17, 2018.
 
