@@ -47,6 +47,8 @@ Almost Global Homotopy Theory. In Preparation.
 
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
 
+Motivic Goerss-Hopkins-Miller-Lurie Theorem. In Preparation.
+
 ## Service
 
 Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
