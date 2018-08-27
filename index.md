@@ -33,11 +33,11 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Elliptic Cohomology and its Power Operations](https://doi.org/10.1007/s40062-018-0201-y). J. Homotopy Relat. Struct. (2018).
 
+[Quasi-Elliptic Cohomology I.](https://arxiv.org/abs/1805.06305). To appear in Advances in Mathematics.
+
 ## Preprint
 
 [Quasi-Elliptic Cohomology and its Spectrum](https://arxiv.org/abs/1703.06562). Submitted for publication.
-
-[Quasi-Elliptic Cohomology I.](https://arxiv.org/abs/1805.06305). Submitted for publication.
 
 [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
 
@@ -54,7 +54,7 @@ Motivic Goerss-Hopkins-Miller-Lurie Theorem. In Preparation.
 Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
 and Technology, China, June 6-9, 2018.
 
-## Talks
+## Talks and Presentations
 Poster Session, Homotopy Theory Summer Berlin 2018, [Quasi-elliptic cohomology](Berlin_Poster.pdf), June 20 and 26, 2018.
 
 Georg-August-Universitat Gottingen Seminar,  _Quasi-elliptic cohomology_, June 6, 2018.
