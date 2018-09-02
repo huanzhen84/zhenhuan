@@ -62,6 +62,8 @@ Co-organizer of  the conference "[International Workshop on Algebraic Topology](
 and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
+Fudan University, _Almost global homotopy theory_, October 10, 2018.
+
 Poster Session, Homotopy Theory Summer Berlin 2018, [Quasi-elliptic cohomology](Berlin_Poster.pdf), June 20 and 26, 2018.
 
 Georg-August-Universitat Gottingen Seminar,  _Quasi-elliptic cohomology_, June 6, 2018.
