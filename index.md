@@ -43,6 +43,13 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 ## Work in Progress
 
+Quasi-Theories. In Preparation. 
+(We are fomulating a family of cohomology theories motivated by quasi-elliptic cohomology which are supposed to simplify the problems and computation on the original theories.)
+
+Quasi-Theories and its Spectrum. In Preparation.
+
+Quasi-Theories and its Power operation. In Preparation.
+
 Almost Global Homotopy Theory. In Preparation.
 
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
