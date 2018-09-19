@@ -41,10 +41,9 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
 
-## Work in Progress
+[Quasi-Theories](http://arxiv.org/abs/1809.06651).
 
-Quasi-Theories. In Preparation. 
-(We are fomulating a family of cohomology theories motivated by quasi-elliptic cohomology which are supposed to simplify the problems and computation on the original theories.)
+## Work in Progress
 
 Quasi-Theories and its Spectrum. In Preparation.
 
