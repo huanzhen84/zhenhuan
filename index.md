@@ -43,13 +43,13 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Theories](http://arxiv.org/abs/1809.06651).
 
+[Quasi-theories and their equivariant orthogonal spectra](https://arxiv.org/abs/1809.07622).
+
+[Almost Global Homotopy Theory](Huan_global.pdf)
+
 ## Work in Progress
 
-Quasi-Theories and its Spectrum. In Preparation.
-
 Quasi-Theories and its Power operation. In Preparation.
-
-Almost Global Homotopy Theory. In Preparation.
 
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
 
