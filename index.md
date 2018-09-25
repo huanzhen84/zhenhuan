@@ -63,7 +63,7 @@ and Technology, China, June 6-9, 2018.
 ## Talks and Presentations
 Fudan University, _Almost global homotopy theory_, October 10, 2018.
 
-Huazhong University of Science and Technology, _Almost global homotopy theory_, September 25, 2018.
+Huazhong University of Science and Technology, [Almost global homotopy theory](Huan_HUST_2018.pdf), September 25, 2018.
 
 Poster Session, Homotopy Theory Summer Berlin 2018, [Quasi-elliptic cohomology](Berlin_Poster.pdf), June 20 and 26, 2018.
 
