@@ -45,7 +45,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-theories and their equivariant orthogonal spectra](https://arxiv.org/abs/1809.07622).
 
-[Almost Global Homotopy Theory](Huan_global.pdf)
+[Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921)
 
 ## Work in Progress
 
