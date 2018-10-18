@@ -23,7 +23,7 @@ Here is my [CV](Huan_CV.pdf).
 
 ## Research
 
-My research interests are in algebraic topology, algebraic geometry and mathematical physics. The main subject I'm working on is quasi-elliptic cohomology.
+My research interests are in algebraic topology, algebraic geometry and mathematical physics. 
 
 Here is my [research statement](Huan_Research.pdf).
 
