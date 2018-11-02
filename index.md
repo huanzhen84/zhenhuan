@@ -33,7 +33,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Quasi-Elliptic Cohomology I.](https://doi.org/10.1016/j.aim.2018.08.007). Advances in Mathematics. Volume 337, 15 October 2018, Pages 107-138.
 
-[Quasi-Elliptic Cohomology and its Power Operations](https://doi.org/10.1007/s40062-018-0201-y). J. Homotopy Relat. Struct. (2018).
+[Quasi-Elliptic Cohomology and its Power Operations](http://link.springer.com/article/10.1007/s40062-018-0201-y). Journal of Homotopy and Related Structures, 13(4), 715-767.
 
 ## Preprint
 
