@@ -62,13 +62,15 @@ and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
 
+Center for Mathematical Sciences, Huazhong University of Science and Technology, [Quasi-elliptic cohomology](HUST1218.pdf), December 23, 2018.
+
 The University of Melbourne [mini lecture series](https://ms.unimelb.edu.au/news/mini-workshop), _Almost global homotopy theory_, November 14 and 16, 2018.
 
 The University of Melbourne [mini lecture series](https://ms.unimelb.edu.au/news/mini-workshop), _Quasi-elliptic cohomology_, November 7 and 9, 2018.
 
 Fudan University, [Almost global homotopy theory](Huan_Fudan.pdf), October 10, 2018.
 
-Huazhong University of Science and Technology, [Almost global homotopy theory](Huan_HUST_2018.pdf), September 25, 2018.
+Center for Mathematical Sciences, Huazhong University of Science and Technology, [Almost global homotopy theory](Huan_HUST_2018.pdf), September 25, 2018.
 
 Poster Session, Homotopy Theory Summer Berlin 2018, [Quasi-elliptic cohomology](Berlin_Poster.pdf), June 20 and 26, 2018.
 
