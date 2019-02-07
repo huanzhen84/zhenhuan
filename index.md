@@ -62,6 +62,8 @@ and Technology, China, June 6-9, 2018.
 
 Reviewer for MathSciNet, 2019-present.
 
+Assistant for Chinese feminism organization working for promoting gender equality in employment. 
+
 ## Talks and Presentations
 
 Center for Mathematical Sciences, Huazhong University of Science and Technology, [Quasi-elliptic cohomology](HUST1218.pdf), December 23, 2018.
