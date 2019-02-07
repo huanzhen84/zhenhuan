@@ -19,13 +19,13 @@ Currently I'm a research associate at [Sun Yat-sen University](http://math.sysu.
 
 I completed my BS in mathematics at [Peking University](https://www.math.pku.edu.cn).
 
-Here is my [CV](Huan_CV.pdf).
+Here is my [CV](Huan-CV.pdf).
 
 ## Research
 
 My research interests are in algebraic topology, algebraic geometry and mathematical physics. 
 
-Here is my [research statement](Huan_Research.pdf).
+Here is my [research statement](Huan-Expose.pdf).
 
 Here is my [dissertation](http://hdl.handle.net/2142/97268). 
 
@@ -59,6 +59,8 @@ Motivic Goerss-Hopkins-Miller-Lurie Theorem. In Preparation.
 
 Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
 and Technology, China, June 6-9, 2018.
+
+Reviewer for MathSciNet, 2019-present.
 
 ## Talks and Presentations
 
