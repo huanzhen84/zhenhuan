@@ -47,6 +47,9 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). Submitted for publication.
 
+## Draft
+[Classification of Level Structures of Tate Curve](Tate_Level_A.pdf), Zhen Huan, January 2018.
+
 ## Work in Progress
 
 Quasi-Theories and its Power operation. In Preparation.
