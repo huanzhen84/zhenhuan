@@ -69,6 +69,8 @@ Assistant for Chinese feminism organization working for promoting gender equalit
 
 ## Talks and Presentations
 
+National University of Singapore Topology & Geometry Seminar, _Quasi-elliptic cohomology_, March 20, 2019.
+
 Center for Mathematical Sciences, Huazhong University of Science and Technology, [Quasi-elliptic cohomology](HUST1218.pdf), December 23, 2018.
 
 The University of Melbourne [mini lecture series](https://ms.unimelb.edu.au/news/mini-workshop), _Almost global homotopy theory_, November 14 and 16, 2018.
