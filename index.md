@@ -1,14 +1,10 @@
 
 ## Zhen Huan (郇真) 
 
-
-School of Mathematics 
-
-Sun Yat-sen University
-
-Xingangxi Road 135, Haizhu, 
-
-Guangzhou,  Guangdong, 510275, China
+Center for Mathematical Sciences,
+Huazhong University of Science and Technology
+1037 Luoyu Road,
+Wuhan, China
 
 Email: huanzhen2016(at)gmail(dot)com
 
@@ -47,16 +43,9 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). Submitted for publication.
 
-## Draft
-[Classification of Level Structures of Tate Curve](Tate_Level_A.pdf), Zhen Huan, January 2018.
-
 ## Work in Progress
 
-Quasi-Theories and its Power operation. In Preparation.
-
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
-
-Motivic Goerss-Hopkins-Miller-Lurie Theorem. In Preparation.
 
 ## Service
 
@@ -65,9 +54,9 @@ and Technology, China, June 6-9, 2018.
 
 Reviewer for MathSciNet, 2019-present.
 
-Assistant for Chinese feminism organization working for promoting gender equality in employment. 
-
 ## Talks and Presentations
+
+Workshop and miniconference "Elliptic Cohomology Days", University of Illinois at Urbana-Champaign, _Power operation in Tate K-theory_, June 12, 2019.
 
 National University of Singapore Topology & Geometry Seminar, _Quasi-elliptic cohomology_, March 20, 2019.
 
@@ -142,8 +131,6 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 Here is my [teaching statement](Huan_Teaching_Statement_Rev.pdf).
 
 ## Useful links
-
-The book [Global Homotopy Theory](http://www.math.uni-bonn.de/people/schwede/global.pdf) by Stefan Schwede.
 
 [UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar).
 
