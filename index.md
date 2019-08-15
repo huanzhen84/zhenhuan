@@ -52,10 +52,12 @@ Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Sta
 
 ## Service
 
-Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
-and Technology, China, June 6-9, 2018.
+Organizer of the Algebraic Geometry and Topology Seminar at the Wuhan math center, 2019-present.
 
 Reviewer for MathSciNet, 2019-present.
+
+Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
+and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
 
@@ -108,6 +110,12 @@ University of Chicago Algebraic Topology Seminar, Quasi-elliptic cohomology, Nov
 Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24, 2014.
 
 ## Teaching
+
+* Huazhong University of Science and Technology
+
+2019 Fall: Introduction to Algebraic Topology.
+
+* University of Illinois at Urbana-Champaign
 
 2016 Summer: teaching assistant for Netmath MATH 231-Calculus II.
 
