@@ -61,6 +61,8 @@ and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
 
+AMS Special Session on Geometric Representation Theory and Equivariant Elliptic Cohomology, Joint Mathematics Meetings, January 16, 2020, Denver, Colorado, USA.
+
 Workshop and miniconference "Elliptic Cohomology Days", University of Illinois at Urbana-Champaign, _Power operation in Tate K-theory_, June 12, 2019.
 
 National University of Singapore Topology & Geometry Seminar, _Quasi-elliptic cohomology_, March 20, 2019.
