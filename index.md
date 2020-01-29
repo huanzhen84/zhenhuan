@@ -70,7 +70,7 @@ University of Copenhagen, _Twisted Quasi-elliptic cohomology_, May 4, 2020.
 
 AMS Special Session on Geometric Representation Theory and Equivariant Elliptic Cohomology, Joint Mathematics Meetings, _Level Structure and Morava E-theory_, January 16, 2020, Denver, Colorado, USA.
 
-University of Science and Technology of China, Colloquium in Mathematics, [Knot Theory: a Mathematical Art(Huan_Knot.pdf), December 25, 2019.
+University of Science and Technology of China, Colloquium in Mathematics, [Knot Theory: a Mathematical Art](Huan_Knot.pdf), December 25, 2019.
     
 University of Science and Technology of China, Colloquium in Mathematics, _Level Structure and Morava E-theory_, December 23, 2019.
 
