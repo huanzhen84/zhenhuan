@@ -24,7 +24,7 @@ Here is my [CV](Huan-CV.pdf).
 
 My research interests are in algebraic topology, algebraic geometry and mathematical physics. 
 
-Here is my [research statement](Huan-Expose.pdf).
+Here is my [research statement](Huan_RS.pdf).
 
 Here is my [dissertation](http://hdl.handle.net/2142/97268). 
 
@@ -46,9 +46,14 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). Submitted for publication.
 
+[Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](Huan_Spong_Twisted_QEll_Chern.pdf). Submitted for publication.
+
+[Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075).
+
+
 ## Work in Progress
 
-Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
+Power operation of twisted quasi-elliptic cohomology (Joint work with Matthew Spong). In Preparation.
 
 ## Service
 
@@ -61,7 +66,15 @@ and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
 
-AMS Special Session on Geometric Representation Theory and Equivariant Elliptic Cohomology, Joint Mathematics Meetings, January 16, 2020, Denver, Colorado, USA.
+University of Copenhagen, _Twisted Quasi-elliptic cohomology_, May 4, 2020.
+
+AMS Special Session on Geometric Representation Theory and Equivariant Elliptic Cohomology, Joint Mathematics Meetings, _Level Structure and Morava E-theory_, January 16, 2020, Denver, Colorado, USA.
+
+University of Science and Technology of China, Colloquium in Mathematics, [Knot Theory: a Mathematical Art(Huan_Knot.pdf), December 25, 2019.
+    
+University of Science and Technology of China, Colloquium in Mathematics, _Level Structure and Morava E-theory_, December 23, 2019.
+
+Young Mathematician Forum at Beijing International Center for Mathematical Research, _Level Structure and Morava E-theory_, December 4, 2019.
 
 Workshop and miniconference "Elliptic Cohomology Days", University of Illinois at Urbana-Champaign, _Power operation in Tate K-theory_, June 12, 2019.
 
