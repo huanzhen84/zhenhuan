@@ -48,7 +48,7 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](Huan_Spong_Twisted_QEll_Chern.pdf). Submitted for publication.
 
-[Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075).
+[Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). Submitted for publication.
 
 
 ## Work in Progress
