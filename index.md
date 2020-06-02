@@ -46,14 +46,11 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). Submitted for publication.
 
-[Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](Huan_Spong_Twisted_QEll_Chern.pdf). Submitted for publication.
+[Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](http://arxiv.org/abs/2006.00554). Submitted for publication.
 
 [Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). Submitted for publication.
 
 
-## Work in Progress
-
-Power operation of twisted quasi-elliptic cohomology (Joint work with Matthew Spong). In Preparation.
 
 ## Service
 
@@ -65,6 +62,8 @@ Co-organizer of  the conference "[International Workshop on Algebraic Topology](
 and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
+
+Conference "Elliptic cohomology and Physics", Perimeter Institute for Theoretical Physics, _Quasi-elliptic cohomology theory and the twisted, twisted Real theories_, May 28, 2020.
 
 University of Copenhagen, _Twisted Quasi-elliptic cohomology_, May 4, 2020.
 
