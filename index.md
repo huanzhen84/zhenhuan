@@ -155,6 +155,26 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 Here is my [teaching statement](Huan_Teaching_Statement_Rev.pdf).
 
+## For Students who are interested in working with me
+
+I'm interested in (real!) algebraic topology and relevant area.
+
+If you want to work with me, you should have 
+
+* Very strong motivation and passion towards algebraic topology
+
+* Solid background in topology, abstract algebra and basic algebraic topology.
+
+And you should be prepared for
+
+* written exams, including topology, abstract algebra and basic algebraic topology.
+
+* an oral exam, 15 minutes or longer if necessary.
+
+* a practice meet. I will give you a paper to read and you present after one week.
+
+
+
 ## Useful links
 
 [UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar).
