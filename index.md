@@ -18,15 +18,11 @@ Currently I'm an associate professor at [Center for Mathematical Sciences at Hua
 
 I completed my BS in mathematics at [Peking University](https://www.math.pku.edu.cn).
 
-Here is my [CV](Huan-CV.pdf).
-
 ## Research
 
 My research interests are in algebraic topology, algebraic geometry and mathematical physics. 
 
-Here is my [research statement](Huan_RS.pdf).
-
-Here is my [dissertation](http://hdl.handle.net/2142/97268). 
+Here is [my nLab page](https://ncatlab.org/nlab/show/Zhen+Huan). 
 
 ## Publication
 
@@ -54,14 +50,39 @@ Here is my [dissertation](http://hdl.handle.net/2142/97268).
 
 ## Service
 
+Co-organizer of the conference [Workshop on Loop space and Higher category](https://msatg.github.io/msatg2022_winter/) at Huazhong University of Science and Technology, December 2-3, 2022.
+
+Co-organizer of the Joint undergraduate Algebraic Geometry seminar with [Hao Sun](https://haosun71275.github.io/HaoSun/), the fall semester 2022.
+
+Co-organizer of the conference [Mid-South Algebraic Topology and Geometry Workshop](https://msatg.github.io/msatg2022/) at Huazhong University of Science and Technology,
+July 18-21, 2022.
+
 Organizer of the Algebraic Geometry and Topology Seminar at the Wuhan math center, 2019-present.
 
-Reviewer for MathSciNet, 2019-present.
+Reviewer for MathSciNet, zbMATH, 2019-present.
 
-Co-organizer of  the conference "[International Workshop on Algebraic Topology](http://iwat2018.com/)" at Southern University of Science
+Co-organizer of  the conference [International Workshop on Algebraic Topology](http://iwat2018.com/) at Southern University of Science
 and Technology, China, June 6-9, 2018.
 
 ## Talks and Presentations
+
+Conference "Arithmetic and Topology", Southern University of Science and Technology,  _Twisted Real Quasi-elliptic cohomology_, December 16, 2022.
+
+Center for Quantum and Topological Systems, New York University in Abu Dhabi, [Twisted Real Quasi-elliptic cohomology and its Power operation](https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#nov_2022_2), November 9, 2022.
+
+Moscow-Beijing Topology Seminar, organized by Prof. V.O. Manturov, _Twisted Real Quasi-elliptic cohomology and its Power operation_, June 15 2022.
+
+Northeast Normal University mini lecture series, _Spectral Algebraic Geometry_, November 11 and 18, 2021.
+
+Northeast Normal University mini lecture series, _2-Representations of Lie 2-groups and 2-Vector Bundles_, October 14, 21, 28, and November 4, 2021.
+
+Huazhong University of Science and Technology, _2-Representations of Lie 2-groups and 2-Vector Bundles_, June 28, 2021.
+
+Georg-August-Universitat Gottingen Seminar, _2-Representations of Lie 2-groups and 2-Vector Bundles_, May 11, 2021.
+
+University of Notre Dame Topology Seminar, _2-Representations of Lie 2-groups and 2-Vector Bundles_, April 6, 2021.
+
+University of Regensburg Topology Seminar, _Level Structures and Morava E-theory_, January 8, 2021.
 
 Conference "Elliptic cohomology and Physics", Perimeter Institute for Theoretical Physics, _Quasi-elliptic cohomology theory and the twisted, twisted Real theories_, May 28, 2020.
 
@@ -103,7 +124,7 @@ Peking University Geometry and Topology Seminar, [Quasi-elliptic cohomology](Zhe
 
 South China Normal University Topology Seminar, _Quasi-elliptic cohomology_, November 16, 2017.
 
-Southern University of Science and Techonology Topology Seminar, [Quasi-elliptic cohomology](Zhen_SUSTech_2016_Slides.pdf), November 14, 2017.
+Southern University of Science and Technology Topology Seminar, [Quasi-elliptic cohomology](Zhen_SUSTech_2016_Slides.pdf), November 14, 2017.
 
 Poster Session, Schubert Calculus International Festival, [Quasi-elliptic cohomology](Huan_poster.pdf), November 9, 2017.
 
@@ -124,6 +145,8 @@ University of Chicago Algebraic Topology Seminar, Quasi-elliptic cohomology, Nov
 Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24, 2014.
 
 ## Teaching
+
+
 
 * Huazhong University of Science and Technology
 
@@ -153,7 +176,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_ at University of Illinois at Urbana-Champaign.
 
-Here is my [teaching statement](Huan_Teaching_Statement_Rev.pdf).
+
 
 ## For Students who are interested in working with me
 
@@ -174,11 +197,3 @@ And you should be prepared for
 * a practice meet. I will give you a paper to read and you present after one week.
 
 
-
-## Useful links
-
-[UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar).
-
-[Essen Seminars-2018](http://www.esaga.uni-due.de/events/).
-
-[A List of Conferences in Topology](https://mathmeetings.net/at-gt).
