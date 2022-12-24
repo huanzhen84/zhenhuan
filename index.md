@@ -44,7 +44,7 @@ Zhen Huan, [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921).
 
 Zhen Huan and Matthew Spong, [Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](http://arxiv.org/abs/2006.00554).
 
-Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). Submitted for publication.
+Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). 
 
 Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxiv.org/abs/2208.10042).
 
@@ -154,6 +154,14 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 2019 Fall: Introduction to Algebraic Topology.
 
+2021 Fall: Linear Algebra.
+
+2022 Spring: Calculus II.
+
+2022 Fall: Discussion Session for Linear Algebra and Analytic Geometry.
+
+2023 Spring: Discussion Session for Linear Algebra and Analytic Geometry.
+
 * University of Illinois at Urbana-Champaign
 
 2016 Summer: teaching assistant for Netmath MATH 231-Calculus II.
@@ -178,11 +186,16 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_ at University of Illinois at Urbana-Champaign.
 
+## Students
+
+I supervised two undergraduates of Huazhong University of Science and Technology, Lesi Hu and Zhangqi Pan, who attended the Mathematician Project A. 
+
+During the spring semester of 2022, they attended the algebra seminar organized by me and studied Hungerford's Algebra book. During the fall  semester of 2022, they attended the joint algebraic geometry seminar organized by [Hao Sun](https://haosun71275.github.io/HaoSun/) and me, and discussed with nine other students from five universities in China, and studied the first two chapters of Hartshorne's Algebraic Geometry book. During this process they studied various related mathematical knowledge, including topology, manifolds and commutative algebra.
+And they finished their project paper on specific topic in algebraic geometry at the end of 2022.
 
 
-## For Students who are interested in working with me
+## For Graduates who are interested in working with me
 
-I'm interested in (real!) algebraic topology and relevant area.
 
 If you want to work with me, you should have 
 
