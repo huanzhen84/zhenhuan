@@ -48,7 +48,7 @@ Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from 
 
 Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxiv.org/abs/2208.10042).
 
-Zhen Huan [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
+Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
 
 ## Service
 
