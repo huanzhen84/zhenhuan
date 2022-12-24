@@ -187,7 +187,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 ## Students
 
-I supervised two undergraduates of Huazhong University of Science and Technology, Lesi Hu (胡乐思) and Zhangqi Pan （潘章琦）, who attended the Mathematician Project A at HUST. 
+I supervised two undergraduates of Huazhong University of Science and Technology, Lesi Hu (胡乐思) and Zhangqi Pan (潘章琦), who attended the Mathematician Project A at HUST. 
 
 During the spring semester of 2022, they attended the algebra seminar organized by me and studied Hungerford's Algebra book. During the fall  semester of 2022, they attended the joint algebraic geometry seminar organized by [Hao Sun](https://haosun71275.github.io/HaoSun/) and me, and discussed with 9 other students from 4 other universities in China, and studied the first two chapters of Hartshorne's Algebraic Geometry book. During this process they studied various related mathematical knowledge, including topology, manifolds and commutative algebra.
 
