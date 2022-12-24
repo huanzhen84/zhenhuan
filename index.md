@@ -70,7 +70,7 @@ and Technology, China, June 6-9, 2018.
 
 Conference "Arithmetic and Topology", Southern University of Science and Technology,  _Twisted Real Quasi-elliptic cohomology_, December 16, 2022.
 
-Center for Quantum and Topological Systems, New York University in Abu Dhabi, [Twisted Real Quasi-elliptic cohomology and its Power operation](https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#nov_2022_2), November 9, 2022.
+Center for Quantum and Topological Systems, New York University in Abu Dhabi, [Twisted Real Quasi-elliptic cohomology](https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#nov_2022_2), November 9, 2022.
 
 Moscow-Beijing Topology Seminar, organized by Prof. V.O. Manturov, _Twisted Real Quasi-elliptic cohomology and its Power operation_, June 15 2022.
 
