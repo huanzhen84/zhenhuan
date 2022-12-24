@@ -9,7 +9,7 @@ Huazhong University of Science and Technology
 
 Wuhan, China
 
-Email: huanzhen2016(at)gmail(dot)com
+Email: 2019010151(at)hust(dot)edu(dot)cn
 
 
 ## Personal information
@@ -193,9 +193,9 @@ During the spring semester of 2022, they attended the algebra seminar organized 
 
 And they finished their project paper on specific topics in algebraic geometry at the end of 2022：
 
-Lesi Hu, Computation about Zariski tangent space and its Application in Deformation theory
+* Lesi Hu, Computation about Zariski tangent space and its Application in Deformation theory
 
-Zhangqi Pan, Extending a Sheaf by Zero
+* Zhangqi Pan, Extending a Sheaf by Zero
 
 
 
