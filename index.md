@@ -32,21 +32,23 @@ Here is [my nLab page](https://ncatlab.org/nlab/show/Zhen+Huan).
 
 ## Preprint
 
-[Quasi-Elliptic Cohomology and its Spectrum](https://arxiv.org/abs/1703.06562). Submitted for publication.
+Zhen Huan, [Quasi-Elliptic Cohomology and its Spectrum](https://arxiv.org/abs/1703.06562). Submitted for publication.
 
-[Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
+Zhen Huan, [Universal Finite Subgroup of Tate Curve](https://arxiv.org/abs/1708.08637). Submitted for publication.
 
-[Quasi-Theories](http://arxiv.org/abs/1809.06651).
+Zhen Huan, [Quasi-Theories](http://arxiv.org/abs/1809.06651).
 
-[Quasi-theories and their equivariant orthogonal spectra](https://arxiv.org/abs/1809.07622).
+Zhen Huan, [Quasi-theories and their equivariant orthogonal spectra](https://arxiv.org/abs/1809.07622).
 
-[Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). Submitted for publication.
+Zhen Huan, [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). 
 
-[Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](http://arxiv.org/abs/2006.00554). Submitted for publication.
+Zhen Huan and Matthew Spong, [Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](http://arxiv.org/abs/2006.00554).
 
-[Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). Submitted for publication.
+Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). Submitted for publication.
 
+Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxiv.org/abs/2208.10042).
 
+Zhen Huan [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
 
 ## Service
 
