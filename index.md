@@ -22,7 +22,7 @@ I completed my BS in mathematics at [Peking University](https://www.math.pku.edu
 
 My research interests are in algebraic topology, algebraic geometry and mathematical physics. 
 
-Here is my [dissertation](http://hdl.handle.net/2142/97268). 
+Here is [my nLab page](https://ncatlab.org/nlab/show/Zhen+Huan).
 
 ## Publication
 
