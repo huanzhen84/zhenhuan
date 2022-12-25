@@ -151,15 +151,15 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 * Huazhong University of Science and Technology
 
-2019 Fall: Introduction to Algebraic Topology.
-
-2021 Fall: Linear Algebra.
-
-2022 Spring: Calculus II.
+2023 Spring: Discussion Session for Linear Algebra and Analytic Geometry.
 
 2022 Fall: Discussion Session for Linear Algebra and Analytic Geometry.
 
-2023 Spring: Discussion Session for Linear Algebra and Analytic Geometry.
+2022 Spring: Calculus II.
+
+2021 Fall: Linear Algebra.
+
+2019 Fall: Introduction to Algebraic Topology.
 
 * University of Illinois at Urbana-Champaign
 
