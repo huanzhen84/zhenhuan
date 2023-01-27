@@ -98,7 +98,7 @@ University of Science and Technology of China, Colloquium in Mathematics, _Level
 
 Young Mathematician Forum at Beijing International Center for Mathematical Research, _Level Structure and Morava E-theory_, December 4, 2019.
 
-Workshop and miniconference "Elliptic Cohomology Days", University of Illinois at Urbana-Champaign, _Power operation in Tate K-theory_, June 12, 2019.
+Workshop and miniconference [Elliptic Cohomology Days](https://www.maths.usyd.edu.au/u/emilyc/MRC/EEC.html), University of Illinois at Urbana-Champaign, _Power operation in Tate K-theory_, June 12, 2019.
 
 National University of Singapore Topology & Geometry Seminar, _Quasi-elliptic cohomology_, March 20, 2019.
 
