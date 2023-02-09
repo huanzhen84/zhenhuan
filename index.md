@@ -52,7 +52,9 @@ Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://ar
 
 ## Unfinished Projects
 
-Zhen Huan, Real Hopkins-Kuhn-Ravenel Character theory.
+Real Hopkins-Kuhn-Ravenel Character theory.
+
+Geometric Power operation of twisted quasi-elliptic cohomology.
 
 ## Service
 
