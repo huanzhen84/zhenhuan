@@ -50,6 +50,10 @@ Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxi
 
 Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
 
+## Unfinished Projects
+
+Zhen Huan, Real Hopkins-Kuhn-Ravenel Character theory.
+
 ## Service
 
 Co-organizer of the conference [Workshop on Loop space and Higher category](https://msatg.github.io/msatg2022_winter/) at Huazhong University of Science and Technology, December 2-3, 2022.
