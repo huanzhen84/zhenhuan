@@ -26,6 +26,8 @@ Here is [my nLab page](https://ncatlab.org/nlab/show/Zhen+Huan).
 
 ## Publication
 
+Zhen Huan, [Twisted equivariant quasi-elliptic cohomology and M-brane charge.](https://link.intlpress.com/JDetail/1991234655023706113). Advances in Theoretical and Mathematical Physics，pp. 1857-1904， Volume 29 (2025) Number 7.
+
 Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from the Morava E-theory of abelian groups.](https://link.springer.com/article/10.1007/s00209-023-03216-7). Mathematische Zeitschrift. volume 303, Article number: 64 (2023).
 
 Zhen Huan, [Quasi-Elliptic Cohomology I.](https://doi.org/10.1016/j.aim.2018.08.007). Advances in Mathematics. Volume 337, 15 October 2018, Pages 107-138.
