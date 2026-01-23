@@ -26,9 +26,11 @@ Here is [my nLab page](https://ncatlab.org/nlab/show/Zhen+Huan).
 
 ## Publication
 
-[Quasi-Elliptic Cohomology I.](https://doi.org/10.1016/j.aim.2018.08.007). Advances in Mathematics. Volume 337, 15 October 2018, Pages 107-138.
+Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from the Morava E-theory of abelian groups.](https://link.springer.com/article/10.1007/s00209-023-03216-7). Mathematische Zeitschrift. volume 303, Article number: 64 (2023).
 
-[Quasi-Elliptic Cohomology and its Power Operations](http://link.springer.com/article/10.1007/s40062-018-0201-y). Journal of Homotopy and Related Structures, 13(4), 715-767.
+Zhen Huan, [Quasi-Elliptic Cohomology I.](https://doi.org/10.1016/j.aim.2018.08.007). Advances in Mathematics. Volume 337, 15 October 2018, Pages 107-138.
+
+Zhen Huan, [Quasi-Elliptic Cohomology and its Power Operations](http://link.springer.com/article/10.1007/s40062-018-0201-y). Journal of Homotopy and Related Structures, 13(4), 715-767.
 
 ## Preprint
 
@@ -43,8 +45,6 @@ Zhen Huan, [Quasi-theories and their equivariant orthogonal spectra](https://arx
 Zhen Huan, [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921). 
 
 Zhen Huan and Matthew Spong, [Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](http://arxiv.org/abs/2006.00554).
-
-Zhen Huan and Nathaniel Stapleton, [Level structures on p-divisible groups from the Morava E-theory of abelian groups](https://arxiv.org/abs/2001.10075). 
 
 Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxiv.org/abs/2208.10042).
 
