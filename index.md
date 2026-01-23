@@ -1,7 +1,7 @@
 
 ## Zhen Huan (郇真) 
 
-Center for Mathematical Sciences, (the Wuhan math center)
+Center for Mathematical Sciences, 
 
 Huazhong University of Science and Technology
 
