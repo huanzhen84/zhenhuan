@@ -60,7 +60,7 @@ Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://ar
 
 Organizer and Lecturer of the Parametrized Higher Category Theory Seminar at HUST, 2025-present.
 
-Organizer and Lecturer of the Higher Category Theory Seminar at HUST, 2024-2025.
+Organizer and Lecturer of the [Higher Category Theory Seminar](https://www.weiyun.com/disk/sharedir/2ae969ce435d37a7889ec0147d81cc1e) at HUST, 2024-2025.
 
 Co-organizer of the conference [Workshop on Loop space and Higher category](https://msatg.github.io/msatg2022_winter/) at Huazhong University of Science and Technology, December 2-3, 2022.
 
