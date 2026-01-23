@@ -183,36 +183,31 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 * Huazhong University of Science and Technology
 
-2023 Spring: Discussion Session for Linear Algebra and Analytic Geometry.
+2026 Spring: Category theory for graduate students.
 
-2022 Fall: Discussion Session for Linear Algebra and Analytic Geometry.
+2025 Spring, 2023 Spring, 2022 Fall: Discussion Session for Linear Algebra and Analytic Geometry.
 
 2022 Spring: Calculus II.
 
-2021 Fall: Linear Algebra.
+2024 Fall, 2025 Fall, 2021 Fall: Linear Algebra.
 
 2019 Fall: Introduction to Algebraic Topology.
+
 
 * University of Illinois at Urbana-Champaign
 
 2016 Summer: teaching assistant for Netmath MATH 231-Calculus II.
 
-2016 Spring: the main instructor of MATH 124-Finite Mathematics.
-
-2015 Fall: the main instructor of MATH 124-Finite Mathematics.
-
-2015 Spring: the main instructor of MATH 124-Finite Mathematics.
+2016 Spring, 2015 Fall, 2015 Spring: the main instructor of MATH 124-Finite Mathematics.
 
 2013 Fall: the main instructor of MATH 119-Ideas in Geometry.
 
 
 2016 Fall: led discussion session for MATH 221-Calculus I.
 
-2012 Fall: led discussion session for MATH 231-Calculus II.
-
 2012 Spring: led discussion session for MATH 234-Calculus for Business I.
 
-2011 Fall: led discussion session for MATH 231-Calculus II.
+2012 Fall, 2011 Fall: led discussion session for MATH 231-Calculus II.
 
 
 2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_ at University of Illinois at Urbana-Champaign.
