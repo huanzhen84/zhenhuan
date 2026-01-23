@@ -183,7 +183,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 * Huazhong University of Science and Technology
 
-2026 Spring: Category theory for graduate students.
+2026 Spring: Category Theory for Graduate Students.
 
 2025 Spring, 2023 Spring, 2022 Fall: Discussion Session for Linear Algebra and Analytic Geometry.
 
