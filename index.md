@@ -54,13 +54,13 @@ Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxi
 
 Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
 
-## Unfinished Projects
-
-Real Hopkins-Kuhn-Ravenel Character theory.
-
-Geometric Power operation of twisted quasi-elliptic cohomology.
 
 ## Service
+
+
+Organizer and Lecturer of the Parametrized Higher Category Theory Seminar at HUST, 2025-present.
+
+Organizer and Lecturer of the Higher Category Theory Seminar at HUST, 2024-2025.
 
 Co-organizer of the conference [Workshop on Loop space and Higher category](https://msatg.github.io/msatg2022_winter/) at Huazhong University of Science and Technology, December 2-3, 2022.
 
@@ -69,12 +69,34 @@ Co-organizer of the Joint undergraduate Algebraic Geometry seminar with [Hao Sun
 Co-organizer of the conference [Mid-South Algebraic Topology and Geometry Workshop](https://msatg.github.io/msatg2022/) at Huazhong University of Science and Technology,
 July 18-21, 2022.
 
-Organizer of the Algebraic Geometry and Topology Seminar at the Wuhan math center, 2019-present.
+Organizer of the Algebraic Geometry and Topology Seminar at HUST, 2019-present.
 
 Reviewer for MathSciNet, zbMATH, 2019-present.
 
 Co-organizer of  the conference [International Workshop on Algebraic Topology](http://iwat2018.com/) at Southern University of Science
 and Technology, China, June 6-9, 2018.
+
+
+## Students
+
+Current Master Student：
+Zhangqi Pan(潘章琦)
+
+Master Student Candidates: 
+Zhi Wang(王志), Zhaobin Zhang（张兆斌）
+
+
+Undergraduate Research:
+I supervised two undergraduates of Huazhong University of Science and Technology, Lesi Hu (胡乐思) and Zhangqi Pan (潘章琦), who attended the Mathematician Project A at HUST. 
+
+During the spring semester of 2022, they attended the algebra seminar organized by me and studied Hungerford's Algebra book. During the fall  semester of 2022, they attended the joint algebraic geometry seminar organized by [Hao Sun](https://haosun71275.github.io/HaoSun/) and me, and discussed with 9 other students from 4 other universities in China. The students studied the first two chapters of Hartshorne's Algebraic Geometry book. Each of them gave a 2-hour talk. During this process they studied various related mathematical knowledge, including topology, manifolds and commutative algebra.
+
+Lesi and Zhangqi finished their project paper on specific topics in algebraic geometry at the end of 2022：
+
+* Lesi Hu, Computation about Zariski tangent space and its Application in Deformation theory
+
+* Zhangqi Pan, Extending a Sheaf by Zero
+
 
 ## Talks and Presentations
 
@@ -194,36 +216,4 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 
 2012 Spring, 2013 Spring, 2014 Spring, 2014 Summer, 2014 Fall, 2015 Summer, 2016 Summer, 2017 Spring: I was a _research assistant_ at University of Illinois at Urbana-Champaign.
-
-## Students
-
-I supervised two undergraduates of Huazhong University of Science and Technology, Lesi Hu (胡乐思) and Zhangqi Pan (潘章琦), who attended the Mathematician Project A at HUST. 
-
-During the spring semester of 2022, they attended the algebra seminar organized by me and studied Hungerford's Algebra book. During the fall  semester of 2022, they attended the joint algebraic geometry seminar organized by [Hao Sun](https://haosun71275.github.io/HaoSun/) and me, and discussed with 9 other students from 4 other universities in China. The students studied the first two chapters of Hartshorne's Algebraic Geometry book. Each of them gave a 2-hour talk. During this process they studied various related mathematical knowledge, including topology, manifolds and commutative algebra.
-
-Lesi and Zhangqi finished their project paper on specific topics in algebraic geometry at the end of 2022：
-
-* Lesi Hu, Computation about Zariski tangent space and its Application in Deformation theory
-
-* Zhangqi Pan, Extending a Sheaf by Zero
-
-
-
-## For Graduates who are interested in working with me
-
-
-If you want to work with me, you should have 
-
-* Very strong motivation and passion towards algebraic topology
-
-* Solid background in topology, abstract algebra and basic algebraic topology.
-
-And you should be prepared for
-
-* written exams, including topology, abstract algebra and basic algebraic topology.
-
-* an oral exam, 15 minutes or longer if necessary.
-
-* a practice meet. I will give you a paper to read and you present after one week.
-
 
