@@ -189,7 +189,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 
 2022 Spring: Calculus II.
 
-2024 Fall, 2025 Fall, 2021 Fall: Linear Algebra.
+2025 Fall, 2024 Fall, 2021 Fall: Linear Algebra.
 
 2019 Fall: Introduction to Algebraic Topology.
 
