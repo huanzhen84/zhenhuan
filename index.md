@@ -91,7 +91,7 @@ Research project: 3-vector spaces and 3-representations
 
 ### Master Student Candidates and their undergraduate projects: 
 
-Zhi Wang(王志): Model category and homotopy theory
+Zhi Wang（王志）: Model category and homotopy theory
 
 zhaobin Zhang（张兆斌）: Model category and higher category
 
