@@ -83,9 +83,11 @@ and Technology, China, June 6-9, 2018.
 
 Current Master Student：
 Zhangqi Pan(潘章琦)
+Research project: 3-vector spaces and 3-representations
 
-Master Student Candidates: 
-Zhi Wang(王志), Zhaobin Zhang（张兆斌）
+Master Student Candidates and their undergraduate projects: 
+Zhi Wang(王志): Model category and homotopy theory
+zhaobin Zhang（张兆斌）: Model category and higher category
 
 
 Undergraduate Research:
