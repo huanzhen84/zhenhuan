@@ -193,7 +193,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 ## Teaching
 
 
-* Huazhong University of Science and Technology
+### Huazhong University of Science and Technology
 
 2026 Spring: Category Theory for Graduate Students.
 
@@ -206,7 +206,7 @@ Northwestern University Topology Seminar, Quasi-elliptic cohomology, November 24
 2019 Fall: Introduction to Algebraic Topology.
 
 
-* University of Illinois at Urbana-Champaign
+### University of Illinois at Urbana-Champaign
 
 2016 Summer: teaching assistant for Netmath MATH 231-Calculus II.
 
