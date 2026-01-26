@@ -50,9 +50,11 @@ Zhen Huan, [Almost Global Homotopy Theory](http://arxiv.org/abs/1809.08921).
 
 Zhen Huan and Matthew Spong, [Twisted Quasi-elliptic cohomology and twisted equivariant elliptic cohomology](http://arxiv.org/abs/2006.00554).
 
+Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
+
 Zhen Huan, [2-Representations of Lie 2-groups and 2-Vector Bundles](https://arxiv.org/abs/2208.10042).
 
-Zhen Huan and Matthew Young, [Twisted Real Quasi-elliptic cohomology](https://arxiv.org/abs/2210.07511).
+Zhen Huan, [2-Equivariant 2-Vector bundles and 2K-theories](https://arxiv.org/abs/2601.15893).
 
 
 ## Service
