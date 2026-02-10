@@ -1,7 +1,7 @@
 
 ## Zhen Huan (郇真) 
 
-Center for Mathematical Sciences, 
+School of Mathematics and Statistics, 
 
 Huazhong University of Science and Technology
 
@@ -14,7 +14,7 @@ Email: 2019010151(at)hust(dot)edu(dot)cn
 
 ## Personal information
 
-Currently I'm an associate professor at [Center for Mathematical Sciences at Huazhong University of Science and Technology](http://mathcenter.hust.edu.cn/). I received my PhD from the [University of Illinois at Urbana-Champaign](https://math.illinois.edu/). My advisor was [Charles Rezk](https://rezk.web.illinois.edu/). My dissertation defense was on May 5th, 2016.
+Currently I'm an associate professor at [School of Mathematics and Statistics, Huazhong University of Science and Technology](https://maths.hust.edu.cn/). I received my PhD from the [University of Illinois at Urbana-Champaign](https://math.illinois.edu/). My advisor was [Charles Rezk](https://rezk.web.illinois.edu/). My dissertation defense was on May 5th, 2016.
 
 I completed my BS in mathematics at [Peking University](https://www.math.pku.edu.cn).
 
