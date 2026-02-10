@@ -60,7 +60,7 @@ Zhen Huan, [2-Equivariant 2-Vector bundles and 2K-theories](https://arxiv.org/ab
 ## Service
 
 
-Organizer and Lecturer of the Parametrized Higher Category Theory Seminar at HUST, 2025-present.
+Organizer and Lecturer of the Parametrized Higher Category Theory Seminar at HUST, 2025-2026.
 
 Organizer and Lecturer of the [Higher Category Theory Seminar](https://www.weiyun.com/disk/sharedir/2ae969ce435d37a7889ec0147d81cc1e) at HUST, 2024-2025.
 
