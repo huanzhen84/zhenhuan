@@ -85,7 +85,8 @@ and Technology, China, June 6-9, 2018.
 
 Zhangqi Pan(潘章琦)
 
-Research project: 3-vector spaces and 3-representations
+Master research project: 3-vector spaces and 3-representations
+Undergraduate research project: The Application of 2-Groups and Categorification in Mathematical Physics
 
 
 
